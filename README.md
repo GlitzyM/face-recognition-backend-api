@@ -1,1 +1,1 @@
-# face-recognition-backend-api
+# THis is the backend server for the face-recognition app.
